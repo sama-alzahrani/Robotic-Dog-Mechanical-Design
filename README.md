@@ -1,34 +1,17 @@
 # Robotic Dog Mechanical Design
 
-## Task
-Initial mechanical design for a simple robotic dog – Mechanical Track.
+## Overview
+This repository contains the initial mechanical design of a simple robotic dog created using Tinkercad.
 
-## Tool
-Tinkercad
-
-## Description
-This design shows a simple robotic dog structure with a body, head, four legs, joints, and feet.
-
-## Design Details
-Each leg has:
-- Upper leg
-- Lower leg
-- Hip joint
-- Knee joint
-- Foot
-
-Total joints:
-4 legs × 2 joints = 8 joints
-
-The robot has 8 degrees of freedom.
-
-## Motor Selection
-Servo motors are suggested to control the joints.  
-The design needs 8 servo motors.
-
-## Walking Method
-Crawl Gait is suggested, where one leg moves at a time while the other three legs support the body.
+## Features
+- Four-leg mechanical structure.
+- 8 rotational joints (2 per leg).
+- Simple body and leg design.
+- Basic concept for standing and walking.
 
 ## Files
-- 3D design file
-- Design screenshots
+- Tinkercad design screenshots.
+- Mechanical design files.
+- Project report.
+
+
