@@ -1,136 +1,59 @@
-# Robotic Dog - Mechanical Design
+<h1 align="center">🤖 Robotic Dog - Mechanical Design</h1>
 
-## Student
+<p align="center">
+Initial mechanical design of a simple quadruped robot created using Tinkercad.
+</p>
 
-Sama Alzahrani
-
-## Project Description
-
-This project presents the initial mechanical design of a simple robotic dog using Tinkercad. The design focuses on the body structure, legs, joints, stability, and basic mechanical calculations required for a robot to stand and walk.
-
----
-
-## Body and Chassis Design
-
-The robot body is designed using a rounded rectangular shape. This design provides enough internal space for future electronic components while keeping the structure simple and lightweight.
+<p align="center">
+  <img src="cover.png" width="600">
+</p>
 
 ---
 
-## Leg Design
+## 📖 Overview
 
-The robot has four legs.
+This project presents the initial mechanical design of a simple robotic dog developed using Tinkercad as part of the Mechanical Track.
 
-Each leg consists of:
-
-- Upper leg
-- Lower leg
-- Foot
-
-Leg dimensions:
-
-- Upper leg: 8 cm
-- Lower leg: 8 cm
+The project focuses on designing the robot body, legs, joints, and mechanical structure while applying the basic concepts required for a quadruped robot.
 
 ---
 
-## Joints and Degrees of Freedom
+## ✨ Features
 
-Each leg contains:
-
-- Hip joint
-- Knee joint
-
-Degrees of Freedom (DOF) per leg: 2
-
-Total Degrees of Freedom:
-
-8 DOF
+- Four-legged robotic design
+- Simple mechanical structure
+- 8 mechanical joints
+- 8 Degrees of Freedom (DOF)
+- Servo motor concept
+- Exported STL model
 
 ---
 
-## Selected Motors
-
-The proposed motor is:
-
-MG996R Servo Motor
-
-Reason:
-
-- Provides suitable torque.
-- Easy to control.
-- Commonly used in robotic projects.
-
----
-
-## Preliminary Torque Calculation
-
-Assumptions:
-
-Load = 0.5 kg
-
-Leg length = 0.08 m
-
-Gravity = 9.81 m/s²
-
-Force:
-
-F = m × g
-
-F = 0.5 × 9.81
-
-F = 4.9 N
-
-Torque:
-
-T = F × L
-
-T = 4.9 × 0.08
-
-T = 0.39 N·m
-
-Estimated required torque:
-
-0.39 N·m
-
----
-
-## Stability and Center of Gravity
-
-The body is placed between the four legs so that the center of gravity remains close to the middle of the robot. This improves stability while standing and walking.
-
----
-
-## Proposed Walking Method
-
-The robot is designed to use the Crawl Gait, where one leg moves while the other three legs remain on the ground. This walking method provides better stability for a simple quadruped robot.
-
----
-
-## Expected Mechanical Problems
-
-Possible mechanical challenges include:
-
-- Joint friction.
-- Limited motor torque.
-- Balance loss on uneven surfaces.
-- Increased weight after adding electronic components.
-
----
-
-## Software Used
+## 🛠️ Design Tool
 
 - Tinkercad
 
 ---
 
-## Files Included
+## 📂 Repository Contents
 
-- Robotic-Dog-Mechanical-Design.stl
-- README.md
+```
+📁 images
+│── cover.png
+
+📄 README.md
+
+📦 Robotic-Dog-Mechanical-Design.stl
+```
 
 ---
 
-## Conclusion
+## 🎯 Project Objective
 
-This project presents the initial mechanical design of a simple robotic dog. The design includes the body, legs, joints, motor selection, a preliminary torque calculation, and stability considerations as a foundation for future development.
+The objective of this project is to understand the basic mechanical principles involved in designing a quadruped robot, including body structure, leg configuration, joints, and overall stability before building a physical prototype.
 
+---
+
+## 👩‍💻 Author
+
+Sama Alzahrani
