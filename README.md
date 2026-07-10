@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Robotic Dog - Mechanical Design</h1>
+<h1 align="center"> Robotic Dog - Mechanical Design 🤖 </h1>
 
 <p align="center">
 Initial mechanical design of a simple quadruped robot created using Tinkercad.
@@ -29,24 +29,25 @@ The project focuses on designing the robot body, legs, joints, and mechanical st
 
 ---
 
+## ⚙️ Mechanical Design Summary
+
+- Number of Legs: 4
+- Joints: 8 (2 per leg)
+- Degrees of Freedom (DOF): 8
+- Arm Length: 8 cm
+- Selected Motor: Servo Motor (MG996R)
+- Preliminary Torque: ≈ 1.0 kg·cm
+- Proposed Gait: Crawl Gait
+
+---
+
+
 ## 🛠️ Design Tool
 
 - Tinkercad
 
 ---
 
-## 📂 Repository Contents
-
-```
-📁 images
-│── cover.png
-
-📄 README.md
-
-📦 Robotic-Dog-Mechanical-Design.stl
-```
-
----
 
 ## 🎯 Project Objective
 
@@ -57,3 +58,10 @@ The objective of this project is to understand the basic mechanical principles i
 ## 👩‍💻 Author
 
 Sama Alzahrani
+
+
+## 📄 Project Report
+
+The detailed mechanical design report is included in this repository as a PDF document.
+
+- Initial Mechanical Design of a Simple Robotic Dog.pdf
